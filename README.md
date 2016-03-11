@@ -1,4 +1,4 @@
-tracker
+Tracker
 =======
 
-A Symfony project created on February 27, 2016, 10:47 am.
+A small utility to track time spent on different projects, uses the external service WakaTime to collect information.
